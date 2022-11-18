@@ -1,0 +1,1 @@
+The python notebook contains the information of how the data was pre-processed and how the ML algorithm of random forest was chosen and trained.
